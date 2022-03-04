@@ -18,18 +18,18 @@ The interactive menu allows users to select between the 5 following options:
 
 The user will be able to select their option by returning the relevant option number.
 
-**Input student names**
+**Input student names:**
 After each input, the program will return the count of students.
 
-**Show student information**
+**Show student information:**
 The program will return students name and cohort
 
-**Save student information**
+**Save student information:**
 The program will save the information entered in a students.csv file
 
-**Load a csv file**
+**Load a csv file:**
 The program will load the information saved in students.csv.
 If such a file exists it will be automatically loaded when the program starts
 
-**Exit**
+**Exit:**
 The program will stop running
